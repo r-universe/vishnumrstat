@@ -11,3 +11,9 @@
 [submodule "CGR"]
 	path = CGR
 	url = https://github.com/cran/CGR
+[submodule "ConsensusCPA"]
+	path = ConsensusCPA
+	url = https://github.com/cran/ConsensusCPA
+[submodule "PenalReg"]
+	path = PenalReg
+	url = https://github.com/cran/PenalReg
