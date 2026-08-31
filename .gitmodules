@@ -14,6 +14,9 @@
 [submodule "ConsensusCPA"]
 	path = ConsensusCPA
 	url = https://github.com/cran/ConsensusCPA
+[submodule "EasyPCA"]
+	path = EasyPCA
+	url = https://github.com/cran/EasyPCA
 [submodule "PenalReg"]
 	path = PenalReg
 	url = https://github.com/cran/PenalReg
